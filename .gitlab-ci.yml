@@ -1,7 +1,7 @@
 include:
   - project: fgreinacher/renovate-include-provider
-    ref: 1.0
+    ref: master
     file: foo.gitlab-ci.yml
   - project: fgreinacher/renovate-include-provider
-    ref: 1.0
+    ref: master
     file: bar.gitlab-ci.yml
